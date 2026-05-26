@@ -1,0 +1,41 @@
+Order Date,Sales,Category,Sub-Category,Region,Profit,Quantity
+2023-01-01,200,Office Supplies,Binders,West,40,2
+2023-01-03,450,Furniture,Chairs,East,80,3
+2023-01-05,1200,Technology,Phones,South,220,4
+2023-01-07,300,Office Supplies,Paper,Central,60,5
+2023-01-10,800,Furniture,Tables,West,150,2
+2023-01-12,650,Technology,Accessories,East,120,3
+2023-01-15,220,Office Supplies,Storage,South,30,2
+2023-01-18,1400,Technology,Laptops,Central,300,2
+2023-01-20,500,Furniture,Bookcases,West,90,3
+2023-01-22,370,Office Supplies,Art,East,50,4
+2023-01-25,1100,Technology,Phones,South,200,3
+2023-01-28,260,Office Supplies,Labels,Central,35,5
+2023-02-01,1750,Furniture,Chairs,West,320,6
+2023-02-03,920,Technology,Accessories,East,180,4
+2023-02-05,310,Office Supplies,Binders,South,55,3
+2023-02-08,680,Furniture,Tables,Central,130,2
+2023-02-10,1500,Technology,Laptops,West,350,2
+2023-02-12,290,Office Supplies,Paper,East,45,4
+2023-02-15,450,Furniture,Bookcases,South,80,2
+2023-02-18,760,Technology,Phones,Central,140,3
+2023-02-20,210,Office Supplies,Storage,West,25,2
+2023-02-22,1340,Furniture,Chairs,East,260,5
+2023-02-25,980,Technology,Accessories,South,170,4
+2023-02-28,330,Office Supplies,Art,Central,50,3
+2023-03-01,1450,Technology,Laptops,West,310,2
+2023-03-03,410,Furniture,Tables,East,85,2
+2023-03-05,275,Office Supplies,Labels,South,40,5
+2023-03-08,620,Technology,Phones,Central,120,3
+2023-03-10,190,Office Supplies,Binders,West,30,2
+2023-03-12,880,Furniture,Bookcases,East,150,3
+2023-03-15,1320,Technology,Laptops,South,290,2
+2023-03-18,360,Office Supplies,Paper,Central,60,4
+2023-03-20,720,Furniture,Chairs,West,140,3
+2023-03-22,540,Technology,Accessories,East,100,3
+2023-03-25,230,Office Supplies,Storage,South,35,2
+2023-03-28,1600,Furniture,Tables,Central,300,4
+2023-03-30,1020,Technology,Phones,West,210,3
+2023-04-01,280,Office Supplies,Art,East,45,3
+2023-04-03,900,Furniture,Bookcases,South,170,3
+2023-04-05,1250,Technology,Laptops,Central,270,2
